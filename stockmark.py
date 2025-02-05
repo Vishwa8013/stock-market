@@ -9,7 +9,7 @@ from plotly import graph_objs as go
 START = '2020-01-01'
 TODAY = date.today().strftime('%Y-%m-%d')
 
-st.title("STOCK MARKET PREDICITION WEBSITE  \n  BY : Vishwa , Mounish ,Vaishanavi Pavithra \n Gudie  : Pandiyan sir")
+st.title("STOCK MARKET PREDICITION WEBSITE  \n  BY : Vishwa , Mounish ,Vaishanavi,Pavithra \n Gudie  : Pandiyan sir")
 print("                 enter the slock name           ")
 
 stocks = ("AAPL","TATACHEM.NS","GC=F","BTC=F","MSFT")
